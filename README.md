@@ -17,6 +17,11 @@ O Azure IoT Operations é a plataforma de Internet das Coisas Industrial desenvo
 ### DEMO 📺 Youtube
 [![Gravação](https://img.youtube.com/vi/_BE27o_1SoA/0.jpg)](https://youtu.be/_BE27o_1SoA)
 
+### Fotos
+|  |  |
+| -------- | ------- |
+| ![Foto1](./img/img01.jpg) | ![Foto2](./img/img02.jpg) |
+| ![Foto3](./img/img03.jpg) | ![Foto4](./img/img04.jpg) |
 
 ## PowerPoint
 - [PowerPoint Deck - https://pt.slideshare.net/slideshow/mvp-conf-2025-monitoramento-de-equipamentos-industriais-com-o-azure-iot-operations-e-ocp-ua/283448963](https://pt.slideshare.net/slideshow/mvp-conf-2025-monitoramento-de-equipamentos-industriais-com-o-azure-iot-operations-e-ocp-ua/283448963)
